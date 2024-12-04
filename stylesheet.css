@@ -1,0 +1,30 @@
+
+
+
+img{
+	width: 200px;
+	border-radius: 15px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.img_top{
+		width: 150px;
+		border-radius: 200px;
+}
+
+
+.col-lg-2{
+	display: block;
+}
+
+
+.img_bottom{
+	display: block;
+
+}
+
+.block_1{
+	border: 2px solid black;
+	margin-bottom: 40px;
+}
